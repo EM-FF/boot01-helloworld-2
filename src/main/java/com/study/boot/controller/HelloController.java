@@ -20,6 +20,7 @@ public class HelloController {
         System.out.println("person:");
         System.out.println("hot-fix");
         System.out.println("master test");
+        System.out.println("hot-fix test");
         return person;
     }
 
