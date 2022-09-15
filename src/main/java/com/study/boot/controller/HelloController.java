@@ -19,6 +19,7 @@ public class HelloController {
     public Person person(){
         System.out.println("person:");
         System.out.println("hot-fix");
+        System.out.println("master test");
         return person;
     }
 
