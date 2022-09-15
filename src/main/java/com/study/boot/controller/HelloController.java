@@ -21,6 +21,7 @@ public class HelloController {
         System.out.println("hot-fix");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
         return person;
     }
 
